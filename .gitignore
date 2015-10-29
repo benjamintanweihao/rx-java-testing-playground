@@ -1,0 +1,14 @@
+*.iml
+
+## Directory-based project format:
+.idea/
+.gradle/
+build/
+# if you remove the above rule, at least ignore the following:
+
+## File-based project format:
+*.ipr
+*.iws
+
+# IntelliJ
+/out/
